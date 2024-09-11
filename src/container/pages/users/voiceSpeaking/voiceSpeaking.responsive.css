@@ -1,0 +1,36 @@
+@media (max-width: 1367px){
+    .voicebot-card-speaking .img-speaking {
+        height: 181.78px;
+        max-width: 794.17px;
+        margin: auto auto 14px auto;
+    }
+    .voicebot-card-speaking .speaking-title-contain {
+        margin-bottom: 30px;
+        font-size: 25px;
+        line-height: 35.02px;
+    }
+}
+
+@media (max-width: 1025px){
+
+}
+
+@media (max-width: 991px){
+
+}
+
+@media (max-width: 767px){
+    .voice-speaking-main .voicebot-card-body {
+        padding: 30px 20px 30px 20px;
+    }
+
+    .voicebot-card-speaking .speaking-title-contain {
+        margin-bottom: 13px;
+        font-size: 19px;
+        line-height: 23.02px;
+    }
+
+    .voicebot-card-speaking .img-speaking {
+        height: 156.78px;
+    }
+}

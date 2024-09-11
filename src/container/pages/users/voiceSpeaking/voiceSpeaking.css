@@ -1,0 +1,29 @@
+@import '../../../../assets/styles/admin.css';
+
+.voicebot-card-speaking .speaking-title-contain {
+    text-align: center;
+    font-size: 28px;
+    line-height: 35px;
+    font-family: 'Lato-SemiBold' !important;
+    margin-bottom: 60px;
+}
+
+.voice-speaking-main .voicebot-card-body {
+    padding: 50px 50px 32px 50px;
+}
+
+.voicebot-card-speaking .speaking-title-contain {
+    text-align: center;
+    font-size: 28px;
+    line-height: 35px;
+    font-family: 'Lato-SemiBold';
+    margin-bottom: 60px;
+}
+
+.voicebot-card-speaking .img-speaking {
+    height: 286.78px;
+    object-fit: contain;
+    width: 100%;
+    max-width: 794.17px;
+    margin: auto auto 34px auto;
+}

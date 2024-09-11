@@ -1,0 +1,209 @@
+@media (max-width: 1821px) {
+  .voicebot-bg {
+    background-size: 100vw 814.05px;
+  }
+  .voicebot-card-body {
+    padding: 120px 47px 32px 47px;
+  }
+  .voicebot-img-contain {
+    margin-top: -163px;
+  }
+  .voicebot-img-contain .voice-one {
+    height: 181.78px;
+  }
+  .voice-contain-bots {
+    max-width: 433px;
+  }
+  .voice-contain-bots .title-voices-say {
+    font-size: 25px;
+    line-height: 35.02px;
+  }
+  .voice-contain-bots .title-voices-head {
+    font-size: 20px;
+    line-height: 29.48px;
+    margin-bottom: 22px;
+  }
+}
+
+@media (max-width: 1450px) {
+  .common-primary-main::after {
+    top: -5.5px;
+}
+
+
+
+  .sesstion-complete-modal.voice-bot-common-modal .voice-bot-common-style {
+    max-width: 570px;
+}
+
+.session-complete-main .interview-head {
+  max-width: 442px;
+  margin-bottom: 34px;
+}
+
+
+
+  .session-complete-main .interview-head .interview-title {
+    margin-bottom: 29px;
+    font-size: 23px;
+}
+
+.session-complete-main .interview-head .thankyou-title {
+  font-size: 24px;
+  margin-bottom: 12px;
+}
+
+  .session-complete-main .interview-head .session-end-desc {
+    font-size: 19px !important;
+    line-height: 25px !important;
+  }
+}
+
+@media (max-width: 1367px) {
+
+  .session-complete-main .interview-head {
+    max-width: 370px;
+    margin-bottom: 29px;
+  }
+
+  .session-complete-main .interview-head .interview-title {
+    margin-bottom: 11px;
+    font-size: 23px;
+  }
+
+  .session-complete-main .interview-head .thankyou-title {
+    font-size: 24px;
+    margin-bottom: 12px;
+  }
+
+  .session-complete-main .interview-head .session-end-desc {
+    font-size: 19px !important;
+    line-height: 25px !important;
+  }
+  .voicebot-bg {
+    background-size: 95vw 689.05px;
+  }
+  .voicebot-card-body {
+    padding: 120px 47px 32px 47px;
+  }
+  .voicebot-img-contain {
+    margin-top: -163px;
+  }
+  .voicebot-img-contain .voice-one {
+    height: 181.78px;
+  }
+  .voice-contain-bots {
+    max-width: 433px;
+  }
+  .voice-contain-bots .title-voices-say {
+    font-size: 25px;
+    line-height: 35.02px;
+  }
+  .voice-contain-bots .title-voices-head {
+    font-size: 18px;
+    line-height: 29.48px;
+    margin-bottom: 22px;
+  }
+  .common-primary-main {
+    max-width: 150px;
+  }
+  .custom-modal-details .custom-title-popup {
+    font-size: 17px;
+    margin-bottom: 19px;
+  }
+
+  .custom-modal-card .custom-modal-body {
+    padding: 40px 35px 25px 35px;
+  }
+
+  .custom-modal-card {
+    max-width: 415px;
+  }
+
+  .session-end-main .session-end-desc {
+    font-size: 17px;
+    line-height: 26px;
+  }
+}
+
+@media (max-width: 1025px) {
+  .voicebot-bg {
+    background-image: url("../../../../assets/images/png/VoiceBgIpad.png");
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-position: center;
+  }
+}
+
+@media (max-width: 767px) {
+  .voicebot-bg {
+    background-image: url("../../../../assets/images/png/VoiceBgMobile.png");
+    background-size: 100% 100%;
+    width: 100vw;
+    height: 100vh;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-position: center;
+  }
+
+  .voicebot-space {
+    padding: 0px 15px;
+  }
+
+  .voicebot-card-body {
+    padding: 120px 20px 32px 20px;
+  }
+
+  .voicebot-img-contain {
+    margin-top: -187px;
+  }
+
+  .session-end-main .session-end-desc {
+    font-size: 16px;
+    line-height: 25px;
+  }
+  
+ 
+}
+
+@media (max-width: 561px) {
+  .voicebot-bg {
+    background-size: 100% 86%;
+  }
+
+  .custom-modal-bg-main {
+    padding: 61px 20px;
+  }
+}
+
+@media (max-width: 345px) {
+  .voicebot-img-contain {
+    height: 150px;
+  }
+  .session-complete-main .interview-head .session-end-desc {
+    font-size: 15px !important;
+    line-height: 24px !important;
+  }
+  .session-end-main .session-end-desc {
+    font-size: 13px;
+    line-height: 25px;
+  }
+  .voicebot-bg {
+    background-size: 100% 72%;
+  }
+
+  .interview-head {
+    margin: auto auto 20px auto;
+  }
+
+  .interview-head .interview-title {
+    font-size: 18px;
+  }
+}

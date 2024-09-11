@@ -1,0 +1,36 @@
+@media (max-width: 1560px) {
+  .common-btn-details .btn-primary,
+  .common-btn-details .btn-primary:hover,
+  .common-btn-details .btn-primary:active {
+    font-size: 20px;
+    line-height: 30px;
+    padding: 8.5px 26px;
+  }
+
+  .custom-flex-modal .common-btn-details .btn-primary,
+  .custom-flex-modal .common-btn-details .btn-primary:hover,
+  .custom-flex-modal .common-btn-details .btn-primary:active,
+  .custom-flex-modal .common-btn-details .btn-secondary,
+  .custom-flex-modal .common-btn-details .btn-primary:hover,
+  .custom-flex-modal .common-btn-details .btn-primary:active {
+    font-size: 14px;
+    line-height: 23px;
+    padding: 8.5px 26px;
+    min-width: 127px;
+  }
+
+  .common-btn-details .cancel-icon,
+  .max-record-contain .plus-icon {
+    height: 20px;
+    width: 20px;
+  }
+}
+
+
+@media (max-width: 345px){
+    .custom-flex-modal .common-btn-details .btn-primary, .custom-flex-modal .common-btn-details .btn-primary:hover, .custom-flex-modal .common-btn-details .btn-primary:active, .custom-flex-modal .common-btn-details .btn-secondary, .custom-flex-modal .common-btn-details .btn-primary:hover, .custom-flex-modal .common-btn-details .btn-primary:active {
+        font-size: 13px;
+        line-height: 20px;
+        padding: 8.5px 17px;
+    }
+}
